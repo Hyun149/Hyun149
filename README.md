@@ -1,4 +1,4 @@
-<h1 align="center">⛵⛵ 함장 Hyun149</h1>
+<h1 align="center">⛵함장 Hyun149⛵</h1>
 <p align="center">
   게임 개발자 지망생 | INFJ | 항해를 멈추지 않는 꾸준함의 아이콘  
 </p>
