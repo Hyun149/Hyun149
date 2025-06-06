@@ -38,7 +38,7 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=Hyun149&theme=tokyonight&area=true&hide_border=true" width="95%"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Hyun149&theme=tokyo-night&area=true&hide_border=true" width="95%"/>
 </p>
 
 ---
