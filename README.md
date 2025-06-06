@@ -15,7 +15,8 @@
 - 🎯 Interested in **Game Development**, **AI**, and building cool stuff
 - 🌱 Currently diving deep into **Unity** & **C#**
 - 🤝 Open to collaborate on **new challenges** or **any project where I'm needed!**
-- 📬 Reach me via: [**My Dev Blog**](https://hyun991.tistory.com/)(rusi4527@Gmail.com)
+- 📬 Blog: [**hyun991.tistory.com**](https://hyun991.tistory.com/)
+- ✉️ Email: rusia4527@gmail.com
 - 🧠 Pronouns: He / Him  
 - ⚡ Fun Fact: 꾸준함과 책임감은 내 무기! 요즘은 **턱걸이도 열심히** 하고 있어요 💪
 
